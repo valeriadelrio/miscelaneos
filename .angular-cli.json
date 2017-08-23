@@ -25,6 +25,7 @@
       ],
       "scripts": [
         "assets/jquery/jquery.slim.min.js",
+        "assets/popper/dist/umd/popper.min.js",
         "assets/tether/tether.min.js",
         "assets/b4/js/bootstrap.min.js"
       ],
